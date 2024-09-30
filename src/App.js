@@ -1,13 +1,11 @@
-import React from 'react';
-import SignIn from './SignIn';  // Import the SignIn component
-import './SignIn.css';          // Import the CSS file
-
-function App() {
+import React from 'react'
+import SignIn from './pages/signin/signin'
+const App = () => {
   return (
-    <div className="App">
-      <SignIn />  {/* Render the SignIn component */}
+    <div>
+      <SignIn />
     </div>
-  );
+  )
 }
 
-export default App;
+export default App

@@ -1,16 +1,16 @@
 import React from "react";
-import { Avatar } from "../Avatar/Avatar";
-import { Component } from "../Component/Component";
-import { Item } from "../Item/Item";
+// import { Avatar } from "../../components/Avatar/Avatar";
+// import { Component } from "../Component/Component";
+// import { Item } from "../Item/Item";
 import { NavBar } from "../NavBar/NavBar";
-import { Path4 } from "../Path4/Path4";
-import { Rectangle17 } from "../Rectangle17/Rectangle17";
-import { Rectangle21 } from "../Rectangle21/Rectangle21";
-import "./style.css";
+// import { Path4 } from "../Path4/Path4";
+// import { Rectangle17 } from "../Rectangle17/Rectangle17";
+// import { Rectangle21 } from "../Rectangle21/Rectangle21";
+import "./home.css";
 
 // Import all image assets here
-import image1 from "./image-1.png";
-import image10 from "./image-10.png";
+// import image1 from "./image-1.png";
+// import image10 from "./image-10.png";
 // ... (other image imports)
 
 export const MainPageAfterLog = () => {
