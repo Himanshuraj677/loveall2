@@ -28,6 +28,7 @@ export const NavBar = ({ property1, className, overlapGroupClassName, basilSearc
   );
 };
 
+
 NavBar.propTypes = {
   property1: PropTypes.oneOf(["default"]),
 };
